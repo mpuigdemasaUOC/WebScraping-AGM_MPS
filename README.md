@@ -1,4 +1,3 @@
-# WebScraping-AGM_MPS
 # Repositori propietat d'Antoni Garcia i Marta Puigdemasa
 
 ## Màster Universitari en Ciència de Dades (Universitat Oberta de Catalunya).
